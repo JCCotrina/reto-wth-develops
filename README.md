@@ -18,4 +18,4 @@ Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a
 
 
 ## Retos
-Puedes iniciar por [acá](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/)
+Puedes iniciar por **[acá](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/)**
